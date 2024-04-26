@@ -1,0 +1,32 @@
+.input_cs input{
+    width: 257px;
+    padding: 9px;
+    padding-left: 27px;
+    border: 1px solid gainsboro;
+
+}
+
+.input_cs button{
+    font-size: 1rem;
+    padding: 11px;
+    width: 97px;
+    color: white;
+    border: none;
+    margin-left: .7em;
+    margin-top: .9em;
+    border-radius: 27px;
+    cursor: pointer;
+}
+
+.input_cs .ADD_btn{
+    background-color: limegreen;
+}
+
+.input_cs .Rmvbtn{
+    background-color: deeppink;
+}
+
+
+.mve_bnt {
+    margin-top: 17%;
+}

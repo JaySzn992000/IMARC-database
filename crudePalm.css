@@ -1,0 +1,26 @@
+.Graph_c{
+    display: flex;
+    gap: 1em;
+    text-align: center;
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.Graph_c .amount{
+    width: 250px;
+    height: 350px;
+    border: 1px solid rgb(164, 164, 164);
+    border-radius: 7px;
+}
+
+
+.Graph_c .amount h2{
+    border: 1px solid rgb(164, 164, 164);
+    padding: 27px;
+}
+
+.Graph_c .amount p{
+    margin-top: .7em;
+}

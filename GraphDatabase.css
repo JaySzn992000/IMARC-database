@@ -1,0 +1,23 @@
+
+.form_gr{
+    margin-top: 2em;
+}
+
+.form_gr input{
+    width: 217px;
+    padding: 11px;
+    padding-left: 27px;
+    border-radius: 7px;
+    border: 1px solid gainsboro;
+    margin-left: .7em;
+}
+
+.form_gr button{
+    background-color: royalblue;
+    padding: 14px;
+    width: 147px;
+    border: none;
+    color: white;
+    border-radius: 17px;
+    margin-left: .7em;
+}

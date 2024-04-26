@@ -1,0 +1,31 @@
+.vwbtn{
+    background-color: darkblue;
+    color: white;
+    padding: 15px;
+    width: 127px;
+    border: none;
+    margin-right: .7em;
+    border-radius: 7px;
+}
+
+
+.dltbtn{
+    background-color: deeppink;
+    color: white;
+    padding: 15px;
+    width: 177px;
+    border: none;
+    border-radius: 7px;
+}
+
+.flex_btn div{
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%,-10%);
+}
+
+
+.flex_btn h1{
+    margin: .5em .7em .7em .7em;
+}

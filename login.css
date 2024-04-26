@@ -1,0 +1,59 @@
+.logim_form {
+display: flex;
+gap: 5em;
+align-items: center;
+text-align: start;
+position: absolute;
+top: 55%;
+left: 50%;
+width: 50%;
+transform: translate(-50%,-50%);
+}
+
+
+.logim_form img{
+    width: 350px;
+    margin-top: 7.7em;
+}
+
+
+.logim_form input{
+    position: absolute;
+    width: 277px;
+    border: 1px solid gray;
+    padding: 11px;
+    padding-left: 17px;
+    
+}
+
+
+form{
+    line-height: 2.3em;
+}
+
+form h1{
+    font-size: 3.3rem;
+    line-height: 1.1em;
+    margin-bottom: .4em;
+}
+
+form h2{
+    margin-bottom: -.4em;
+}
+
+
+.loing_btn{
+    background-color: royalblue;
+    border: none;
+    width: 177px;
+    padding: 13px;
+    color: white;
+    font-size: .9rem;
+    margin-top: 1em;
+    cursor: pointer;
+}
+
+
+p{
+    color: red;
+}
